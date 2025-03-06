@@ -106,7 +106,7 @@ This will launch the **AI Resume Screening System** in your web browser.
 6. Results are visualized using a **bar chart** and a ranked table.
 
 ## 🚀 Deployment Guide (Streamlit Cloud)
-1. **Create a Streamlit account** at [Streamlit Cloud](https://streamlit.io/).
+1. **Create a Streamlit account** at [Streamlit Cloud](https://ai-resumeranker.streamlit.app/).
 2. **Push your project** to GitHub.
 3. **Go to Streamlit Cloud**, select **Deploy an App**, and connect your GitHub repository.
 4. **Enter app.py as the entry point** and deploy.
