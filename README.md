@@ -1,6 +1,6 @@
 # AI Resume Screening & Candidate Ranking System
 
-🚀 Introduction
+## 🚀 Introduction
 
 In the modern recruitment process, organizations receive an overwhelming number of resumes for each job opening. Manually screening these resumes to identify the most suitable candidates is time-consuming and labor-intensive.
 
