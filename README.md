@@ -28,16 +28,6 @@ I've formatted the tables with a **short description** for each technology while
 
 ---
 
-## 🧠 Key Features:
-- Upload multiple resumes in PDF format.
-- Extracts and processes resume text using PyPDF2.
-- Uses TF-IDF Vectorization and Cosine Similarity (via scikit-learn) to match resumes to job descriptions.
-- Visualizes results via similarity score bar charts (matplotlib).
-- Displays ranked resume results in a downloadable table.
-- Intuitive Streamlit UI for interaction and deployment.
-
----
-
 ## 🛠️ Technologies & Frameworks Used  
 
 ### 🌐 Frontend Technologies  
